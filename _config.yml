@@ -1,0 +1,17 @@
+title: "Zifu Wei"
+description: "Personal homepage of Zifu Wei."
+url: "https://zifuwei.github.io"
+baseurl: ""
+
+# Simple top navigation (edit as you like)
+nav:
+  - name: Home
+    link: /
+  - name: Research
+    link: /research/
+  - name: Teaching
+    link: /teaching/
+  - name: CV
+    link: /assets/cv.pdf
+
+markdown: kramdown
